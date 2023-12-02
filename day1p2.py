@@ -62,4 +62,4 @@ for line in data:
     elif last_dig == '9' or last_dig == 'nine':
         sum += 9
 
-print(sum)
+# print(sum)

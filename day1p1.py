@@ -10,4 +10,4 @@ for j in range(len(data)):
     digit2 = int(data[j][-i[::-1].index(True) - 1])
     sum += 10 * digit1 + digit2
 
-print(sum)
+# print(sum)
